@@ -1,0 +1,28 @@
+body, html{
+    width:100%;
+    height: 100%;
+    font-family: 'Montserrat', sans-serif;
+    background-image: url('image/20494859.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+
+}
+
+h1{
+    text-align: center;
+    padding: 250px;
+}
+
+.btn{
+    text-align: center;
+    margin: 20px auto;
+    padding: 15px;
+    background-color: orangered;
+    border-color:orangered
+
+}
+
+
+
+    
